@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a self-taught developer from Finland, 30-years-old
+I'm a self-taught developer from Finland, 31-years-old
 
 
 - 🌱 I’m currently learning on <a href="https://www.theodinproject.com">The Odin Project</a>
