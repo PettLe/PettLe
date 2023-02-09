@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a self-taught developer from Finland, 31-years-old
 
-- :mortar_board: Programming student at Taitotalo
+- :mortar_board: Studied programming at Taitotalo, now at the Stadin AO
 - 🌱 I’m currently learning on <a href="https://www.theodinproject.com">The Odin Project</a>
 - :sparkles: Dreaming of becoming a fullstack developer
 - 💬 Languages and technologies: 
