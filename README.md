@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm a self-taught developer from Finland, 32-years-old.
-Learned most by myself. Now in school honing skills, filling the gaps and chasing official certificate.
+I'm a self-taught developer from Finland, 33-years-old.
+Learned most by myself. Then honed skills and filled the gaps in school, finally graduated with official <b>Information and Communication Technologies (ICT)</b> certificate.
 
-- :mortar_board: Studied programming at Taitotalo, now at Stadin AO
+- :mortar_board: Studied programming at Stadin AO and Taitotalo
 - 🌱 Also <a href="https://www.theodinproject.com">The Odin Project</a>
 - :sparkles: Dreaming of becoming a fullstack developer
 - 💬 Languages and technologies: 
